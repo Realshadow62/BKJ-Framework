@@ -1,6 +1,6 @@
-# BKJ-Framework
+# Kits
 
-Official developer framework provided by Bakumatsu Jidai.
-Includes official BKJ assets, as well as standalone modules.
+Simple module for creating kits to give players.
+Included in BKJ Framework
 
-Documentation and examples: https://github.com/Realshadow62/BKJ-Framework/wiki
+Documentation: https://github.com/Realshadow62/Kits/wiki
