@@ -8,10 +8,6 @@ local ASSET_LINK = "rbxassetid://%d"
 
 local KitsGiver = {}
 
-function replicate(event)
-	
-end
-
 function KitsGiver.Webbings(kit, plr)
 	local char = plr.Character
 	for _,webbing in pairs(kit.Webbings) do
